@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\ListadeExercicio\bin\Debug\net5.0\ListadeExercicio.exe
+C:\Users\Aluno\Desktop\ListadeExercicio\bin\Debug\net5.0\ListadeExercicio.deps.json
+C:\Users\Aluno\Desktop\ListadeExercicio\bin\Debug\net5.0\ListadeExercicio.runtimeconfig.json
+C:\Users\Aluno\Desktop\ListadeExercicio\bin\Debug\net5.0\ListadeExercicio.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\ListadeExercicio\bin\Debug\net5.0\ListadeExercicio.dll
+C:\Users\Aluno\Desktop\ListadeExercicio\bin\Debug\net5.0\ref\ListadeExercicio.dll
+C:\Users\Aluno\Desktop\ListadeExercicio\bin\Debug\net5.0\ListadeExercicio.pdb
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.dll
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ref\ListadeExercicio.dll
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.pdb
+C:\Users\Aluno\Desktop\ListadeExercicio\obj\Debug\net5.0\ListadeExercicio.genruntimeconfig.cache
